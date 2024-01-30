@@ -7,7 +7,7 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhaysingh5349&row=1" alt="abhaysingh5349" /></a> </p>
 
-- 🌱 I’m currently learning **the intricacies of TypeScript, ReactJS, NextJS**
+- 🌱 I’m currently learning the intricacies of **TypeScript, ReactJS, NextJS**
 
 - 👨‍💻 All of my projects are available at [https://github.com/AbhaySingh5349](https://github.com/AbhaySingh5349)
 
