@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning the intricacies of **TypeScript, ReactJS, NextJS**
 
-- 📄 Curious about my experiences ? Check out my Resume [https://drive.google.com/file/d/1CfmSWP4BosI5KL05H_MQOA2r7tcQLZZ4/view]
+- 📄 Curious about my experiences ? Check out my [Resume](https://drive.google.com/file/d/1CfmSWP4BosI5KL05H_MQOA2r7tcQLZZ4/view)
 
 - 👨‍💻 All of my projects are available at [https://github.com/AbhaySingh5349](https://github.com/AbhaySingh5349)
 
